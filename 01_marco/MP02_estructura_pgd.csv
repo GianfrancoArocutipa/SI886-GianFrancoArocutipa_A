@@ -1,0 +1,94 @@
+pagina,numeral,titulo,nivel
+3,1,Objetivo prioritario 3 de la Política Nacional de Transformación Digital al 2030.,1
+7,3.1,PLAN ESTRATÉGICO INSTITUCIONAL - PEI,2
+8,3.1.1,DECLARACIÓN DE POLÍTICAS INSTITUCIONALES,3
+9,3.1.2,MISIÓN INSTITUCIONAL,3
+9,3.1.3,OBJETIVOS ESTRATÉGICOS INSTITUCIONALES-OEI,3
+14,3.1.4,ACCIONES ESTRATÉGICAS INSTITUCIONALES - AEI,3
+16,3.1.5,RUTA ESTRATÉGICA,3
+17,1,"OEI 01 aduanero de LIN 4.1 4 AEI 01.04 digital de los LIN 4.1 INSI, OIPPI",1
+17,2,OEI 02 1 AEI 02.01 INDIA,1
+17,3,OEI 03 lícitas en el 1 AEI 03.01 exterior INDIA,1
+17,4,OEI 04 1 AEI 04.01 de la demanda INSI,1
+18,5,OEI 05,1
+18,1,AEI.05.01,1
+19,3.2,MATRIZ DE ARTICULACIÓN DE PLANES7,2
+28,10,"Al 13 de noviembre de 2024, incluidos todos los regímenes laborales.",1
+28,11,En adelante El Comité.,1
+30,13,De acuerdo con la Resolución Ministerial N.º 087-2019-PCM (19 de marzo de 2019).,1
+33,4.3,COMPONENTES DE PLAN DE GOBIERNO DIGITAL,2
+33,4.3.1,PROGRAMAS Y PROYECTOS INSTITUCIONALES,3
+40,4.3.2,MODELO DE GESTIÓN DOCUMENTAL - MGD,3
+41,4.3.3,DESARROLLO DE INICIATIVAS INFORMÁTICAS Y MEJORA,3
+42,4.3.4,SISTEMA DE GESTIÓN DE LA SEGURIDAD DE LA,3
+47,4.4,CUMPLIMIENTO DE LA REGULACIÓN DIGITAL,2
+47,3,Mesas de Partes Digitales y Notificaciones,1
+47,7,Plataforma de Interoperabilidad del Estado - PIDE,1
+48,8,"Gubernamentales del Perú 2017-2021"" y el Se participa en las mesas de trabajo.",1
+48,9,Se ha elaborado un Plan de Transición a IPV6.,1
+48,12,Portal de Software Público Peruano – PSPP Se hacen los ajustes en el Portal Institucional.,1
+48,13,"Gobierno Digital, y establece disposiciones sobre",1
+48,17,"Peruana ""NTPISO/IEC 12207:2016- Ingeniería de",1
+49,20,Resolución de Gerencia Administración,1
+49,21,N.º 001-2017-PCM/SEGDI designando al Comité funciones de acuerdo con lo establecido en el,1
+50,26,Plataforma del Centro Nacional de Seguridad Digital,1
+50,4.5,INFRAESTRUCTURA TECNOLÓGICA,2
+50,4.5.1,HARDWARE,3
+51,4.5.2,SOFTWARE,3
+51,4.5.3,BASE DE DATOS,3
+51,4.5.4,SISTEMA DE INFORMACIÓN,3
+51,17,"Corresponden a computadoras de escritorio, portátil y monitor con procesador integrado.",1
+51,19,Corresponden a sistemas de proyección multimedia.,1
+52,4.5.4.1,Servicios de Interoperabilidad,4
+52,1,Generación de RUC,1
+52,2,Envió de Partes de Embargos de Inmuebles,1
+52,3,Consulta de RUC,1
+52,4,Consulta de descripciones mínimas de vehículos (Declaración Única de Aduanas-,1
+52,6,Consulta individual de comprobantes de pago electrónicos emitidos [Comprobantes de pago,1
+52,7,Consulta individual de comprobantes de pago electrónicos recibidos [Comprobantes de pago,1
+52,8,Consulta de presentación de declaraciones determinativas e informativas y pagos de tributos,1
+52,9,Consulta de Declaración Única de Aduanas (pagos de tributos aduaneros) [Declaraciones y,1
+52,10,Consulta de deuda tributaria pendiente de pago [Deuda tributaria],1
+52,4.5.5,CONECTIVIDAD,3
+53,4.6,EQUIPAMIENTO,2
+53,4.7,SERVICIOS PÚBLICOS DIGITALES,2
+53,1,Plataforma de Declaración y Pago X,1
+53,2,Autenticación SOL (SUNAT Operaciones en Línea) X,1
+53,3,Libros electrónicos X,1
+53,4,Cuadre y Generación de Nota de Abono (Extranet) X,1
+53,5,PLAME X,1
+53,6,T-Registro X,1
+53,8,Guía de Remisión (GEM. Portal) X,1
+53,9,Presentación de DDJJ (PDT y WEB) X,1
+53,10,"Retenciones y Percepciones (GEM, Portal) X",1
+54,11,Recibos por Honorarios Electrónicos X,1
+54,12,Guía de Remisión - Bienes Fiscalizados X,1
+54,13,Generación de RUC X X,1
+54,14,APP Personas: Inscripción al RUC / RUC Digital X,1
+54,15,APP Personas: Declaración de Renta Anual X,1
+54,16,APP Personas: Buzón Electrónico X,1
+54,17,APP Personas: Reporte Tributario para Terceros X,1
+54,18,APP Emprender: Buzón Electrónico X,1
+54,19,APP Emprender: Reporte Tributario para Terceros X,1
+54,20,App Emprender: Notificaciones Push X,1
+54,22,Envío de Partes de Embargos de Inmuebles X,1
+54,23,Consulta de RUC X,1
+54,24,Única de Aduanas-DUA/Declaración Aduanera de Mercancías- X,1
+54,30,Consulta de deuda tributaria pendiente de pago [Deuda tributaria] X,1
+54,33,Mesa de Partes Virtual de la SUNAT X,1
+54,4.8,PERSONAL Y CULTURA ORGANIZACIONAL,2
+55,4.9,PROGRAMA DE FORTALECIMIENTO DE CAPACIDADES DE,2
+56,4.10,PRESUPUESTO,2
+57,24,Punto 3.2.2 de los Lineamientos para la formulación de Gobierno Digital señalados.,1
+63,5.1,MATRIZ DE VINCULACIÓN DE OBJETIVOS DE GOBIERNO DIGITAL CON OBJETIVOS ESTRATÉGICOS,2
+67,5.2,MATRIZ DE VINCULACIÓN DE OBJETIVOS DE GOBIERNO DIGITAL CON ACCIONES ESTRATÉGICAS,2
+71,5.3,MATRIZ DE VINCULACIÓN DE OBJETIVOS DE GOBIERNO DIGITAL CON LOS DESAFÍOS,2
+72,5.4,MATRIZ DE VINCULACIÓN DE OBJETIVOS DE GOBIERNO,2
+73,6.1,LISTADO DE PROYECTOS,2
+74,25,"El proyecto se tiene previsto culminar en abril del 2025, según el Plan de Gestión vigente.",1
+77,28,Proyecto en etapa de planificación detallada.,1
+78,29,Proyecto en etapa de planificación detallada.,1
+79,6.2,MATRIZ DE VINCULACIÓN DE LOS PROYECTOS CON LOS,2
+81,8.1,Glosario de Términos,2
+81,30,Fuente: Sistemas de Información Gerencial - Kenneth C. Laudon Jane P. Laudon.,1
+82,8.2,SIGLAS,2
